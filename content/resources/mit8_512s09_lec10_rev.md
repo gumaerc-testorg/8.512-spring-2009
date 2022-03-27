@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 43c971ec-ed44-52e4-6b46-0f78fb845c56
 resourcetype: Document
 title: 'Lecture 10: Superconductors With Disorder'
 uid: 7c18b5b0-b6b1-036d-334e-c864be5dac12

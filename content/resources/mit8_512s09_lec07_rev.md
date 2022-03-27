@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 43c971ec-ed44-52e4-6b46-0f78fb845c56
 resourcetype: Document
 title: 'Lecture 7: The Scaling Theory of Conductance Part II'
 uid: 6cc5023c-aca0-b6c2-3e7c-88c6e36b38b0

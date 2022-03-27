@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 43c971ec-ed44-52e4-6b46-0f78fb845c56
 resourcetype: Document
 title: 'Lecture 22: The Kondo Problem: Singlet Ground State and Kondo Resonance'
 uid: e71b295e-bc1a-7ce8-0d01-74971d6ab748

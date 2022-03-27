@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 43c971ec-ed44-52e4-6b46-0f78fb845c56
 resourcetype: Document
 title: 'Lecture 1: Linear Response Theory'
 uid: 0d1bb83b-0e64-7187-4b6c-3e02aff52ad5
