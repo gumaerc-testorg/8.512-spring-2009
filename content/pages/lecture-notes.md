@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with lecture notes from each session.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 43c971ec-ed44-52e4-6b46-0f78fb845c56
 ---
@@ -24,7 +29,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Fluctuation dissipation theorem ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec01_rev2))
+Fluctuation dissipation theorem ({{% resource_link 0d1bb83b-0e64-7187-4b6c-3e02aff52ad5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +38,7 @@ Fluctuation dissipation theorem ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Scattering ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec02))
+Scattering ({{% resource_link e3357e6a-8941-4e7a-0736-ab52c9389160 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +47,7 @@ Scattering ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec02))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-General properties of response function ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec03_rev))
+General properties of response function ({{% resource_link 44bb605c-b656-287b-1aaf-f1a93bcfa8fc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +56,7 @@ General properties of response function ([PDF]({{< baseurl >}}/resources/mit8_51
 4
 {{< tdclose >}}
 {{< tdopen >}}
-f-sum rule ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec03f))
+f-sum rule ({{% resource_link d45f337a-633f-1f27-a889-59bdb3ccd502 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +65,7 @@ f-sum rule ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec03f))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Kubo formula ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec05))
+Kubo formula ({{% resource_link e728088f-dea0-072b-0c46-ddb1e88ea69d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +74,7 @@ Kubo formula ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec05))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Sensitivity to boundary conditions ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec06))
+Sensitivity to boundary conditions ({{% resource_link 039ae328-a78e-b692-1c16-239e587e69d0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +83,7 @@ Sensitivity to boundary conditions ([PDF]({{< baseurl >}}/resources/mit8_512s09_
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Scaling theory of localization ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec07_rev))
+Scaling theory of localization ({{% resource_link 6cc5023c-aca0-b6c2-3e7c-88c6e36b38b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +92,7 @@ Scaling theory of localization ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec0
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Mott variable range hopping ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec08))
+Mott variable range hopping ({{% resource_link 9466f80d-96d2-a7c6-9af5-e72b69d78539 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +101,7 @@ Mott variable range hopping ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec08))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Transverse response of superconductor ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec09))
+Transverse response of superconductor ({{% resource_link da8fc714-bc1e-f5c0-455c-9dcbd93c5f56 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +110,7 @@ Transverse response of superconductor ([PDF]({{< baseurl >}}/resources/mit8_512s
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Microscopic derivation of London equation ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec10_rev))
+Microscopic derivation of London equation ({{% resource_link 7c18b5b0-b6b1-036d-334e-c864be5dac12 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +119,7 @@ Microscopic derivation of London equation ([PDF]({{< baseurl >}}/resources/mit8_
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Effect of disorder ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec11_12))
+Effect of disorder ({{% resource_link fd1bbbe1-f007-0732-71bc-7a86e5ec4c6d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +128,7 @@ Effect of disorder ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec11_12))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Quasiparticles and coherence factors ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec11_12))
+Quasiparticles and coherence factors ({{% resource_link fd1bbbe1-f007-0732-71bc-7a86e5ec4c6d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +137,7 @@ Quasiparticles and coherence factors ([PDF]({{< baseurl >}}/resources/mit8_512s0
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Tunnelling and Josephson effect ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec13))
+Tunnelling and Josephson effect ({{% resource_link daf44ba8-3a14-93b0-ea1e-8d67eba3ac05 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +146,7 @@ Tunnelling and Josephson effect ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Local moment magnetism ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec14_15))
+Local moment magnetism ({{% resource_link 91a10681-73b8-3905-7d8d-fb97c8e6df02 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +155,7 @@ Local moment magnetism ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec14_15))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Exchange interaction ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec14_15))
+Exchange interaction ({{% resource_link 91a10681-73b8-3905-7d8d-fb97c8e6df02 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +164,7 @@ Exchange interaction ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec14_15))
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Ferromagnetic and anti-ferromagnetic spin waves ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec16_17))
+Ferromagnetic and anti-ferromagnetic spin waves ({{% resource_link 5c93aec3-44c4-fdb6-5d5f-44c334e9c165 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +173,7 @@ Ferromagnetic and anti-ferromagnetic spin waves ([PDF]({{< baseurl >}}/resources
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Spin flop transition and neutron scattering ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec16_17))
+Spin flop transition and neutron scattering ({{% resource_link 5c93aec3-44c4-fdb6-5d5f-44c334e9c165 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +182,7 @@ Spin flop transition and neutron scattering ([PDF]({{< baseurl >}}/resources/mit
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Band magnetism and stoner theory ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec18_19))
+Band magnetism and stoner theory ({{% resource_link 968ce797-d8a6-94b5-b2b3-4d427182595a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +191,7 @@ Band magnetism and stoner theory ([PDF]({{< baseurl >}}/resources/mit8_512s09_le
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Mean field theory and spin density wave ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec18_19))
+Mean field theory and spin density wave ({{% resource_link 968ce797-d8a6-94b5-b2b3-4d427182595a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,7 +200,7 @@ Mean field theory and spin density wave ([PDF]({{< baseurl >}}/resources/mit8_51
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Local moment in metals and Friedel sum rule ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec20_21))
+Local moment in metals and Friedel sum rule ({{% resource_link e5d53753-3693-ee95-235a-3c16288029b2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +209,7 @@ Local moment in metals and Friedel sum rule ([PDF]({{< baseurl >}}/resources/mit
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Anderson model and Kondo problem ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec20_21))
+Anderson model and Kondo problem ({{% resource_link e5d53753-3693-ee95-235a-3c16288029b2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +218,7 @@ Anderson model and Kondo problem ([PDF]({{< baseurl >}}/resources/mit8_512s09_le
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Singlet ground state and Kondo resonance ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec22_kondo_rev02))
+Singlet ground state and Kondo resonance ({{% resource_link e24e6a7f-495a-3722-3439-db0b2878eefe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +227,7 @@ Singlet ground state and Kondo resonance ([PDF]({{< baseurl >}}/resources/mit8_5
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Fermi liquid theory and electron spectral function ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec23_24))
+Fermi liquid theory and electron spectral function ({{% resource_link 3b6a904b-8cb8-078e-1cf5-70e2e03d95a4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -231,7 +236,7 @@ Fermi liquid theory and electron spectral function ([PDF]({{< baseurl >}}/resour
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Landau parameters ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec23_24))
+Landau parameters ({{% resource_link 3b6a904b-8cb8-078e-1cf5-70e2e03d95a4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,7 +245,7 @@ Landau parameters ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec23_24))
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Fermi liquid interpretation of Kondo ground state ([PDF]({{< baseurl >}}/resources/mit8_512s09_lec25))
+Fermi liquid interpretation of Kondo ground state ({{% resource_link 065c49d5-7082-83e1-e00a-d6e930c30e16 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
