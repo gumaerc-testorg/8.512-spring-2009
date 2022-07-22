@@ -7,6 +7,7 @@ file: /courses/8-512-theory-of-solids-ii-spring-2009/7c18b5b0b6b1036d334ec864be5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Lecture 10: Superconductors With Disorder'
 uid: 7c18b5b0-b6b1-036d-334e-c864be5dac12
 ---
 Lecture notes on superconductors in systems with disorder, the Anderson theorems, conductivity in disordered superconductors, and the London penetration depth.
-
