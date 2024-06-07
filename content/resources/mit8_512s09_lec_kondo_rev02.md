@@ -4,6 +4,7 @@ description: Lecture notes on residual interaction between a local moment and th
   Fermi sea, the Kondo problem, a variational approach to the Kondo problem, and Kondo
   resonance.
 file: /courses/8-512-theory-of-solids-ii-spring-2009/e71b295ebc1a7ce80d0174971d6ab748_MIT8_512s09_lec_kondo_rev02.pdf
+file_size: 337658
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -5,6 +5,7 @@ description: Lecture notes on conductance in two and three dimensional systems, 
   observable consequences, the model of microscopic diffusion, time reversal symmetry,
   and the probability of return.
 file: /courses/8-512-theory-of-solids-ii-spring-2009/6cc5023caca0b6c23e7c88c6e36b38b0_MIT8_512s09_lec07_rev.pdf
+file_size: 224420
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
