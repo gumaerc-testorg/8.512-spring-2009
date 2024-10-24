@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on linear response theory, response functions, the interaction
   representation, and free fermions.
-file: /courses/8-512-theory-of-solids-ii-spring-2009/0d1bb83b0e6471874b6c3e02aff52ad5_MIT8_512s09_lec01_rev2.pdf
+file: /ol-ocw-studio-app/courses/8-512-theory-of-solids-ii-spring-2009/0d1bb83b0e6471874b6c3e02aff52ad5_MIT8_512s09_lec01_rev2.pdf
 file_size: 319675
 file_type: application/pdf
 learning_resource_types:
