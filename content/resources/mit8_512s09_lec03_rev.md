@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on some general properties of the response functions, and
   some useful relations that they satisfy.
-file: /ol-ocw-studio-app/courses/8-512-theory-of-solids-ii-spring-2009/44bb605cb656287b1aaff1a93bcfa8fc_MIT8_512s09_lec03_rev.pdf
+file: /courses/8-512-theory-of-solids-ii-spring-2009/44bb605cb656287b1aaff1a93bcfa8fc_MIT8_512s09_lec03_rev.pdf
 file_size: 166147
 file_type: application/pdf
 learning_resource_types:
